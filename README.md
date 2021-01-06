@@ -35,3 +35,8 @@ A full-fledged system with <b>1/5th the size of industry standard model</b> (pub
  6. Now that the server is running, it will display a message in the terminal. Open up any web browser and type in http://localhost:3000/ into the address bar to access it.
  7. From here on out you can create an account, login, generate and manage reports etc.
  8. To close the server, simply hit ctrl+c in the terminal to end the process
+ 
+ 
+ ### Future of the project
+The project in its current state is not much usable in a real scenario where a doctor can blindly rely on the website to give absolutely correct predictions and comments. So, some improvement is required which is not difficult to do given that the current state of the project is good.
+The model in question needs more training with actual data that a doctor collects himself from scanning real world patients. Also, the build of the website deployed on heroku cannot run the model as the RAM requirement is not met (500MB RAM on heroku servers is not enough to run the model). This issue can be fixed by purchasing heroku's services or deploying the website on AWS servers with a subscription.
