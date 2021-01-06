@@ -1,5 +1,5 @@
 
-## Minor Project: Osteoarthritis Checkup System [[Live]](https://oa-checkup-system.herokuapp.com/) [[Report]](https://github.com/Gauravsharma-20/Minor-Project/blob/master/Report.pdf)
+## Minor Project: Osteoarthritis Checkup System [[Live]](https://oa-checkup-system.herokuapp.com/) [[Report]](https://github.com/SaarishtThaman/Minor-Project/blob/master/Report.pdf)
 
 <div style="margin: 0 auto; width: 100px;" ><b> Group ID - 3</b></div>
 
@@ -17,7 +17,7 @@
 ### Overview
 The whole system can be summed up as an <b>Osteoarthritis Grade Prediction and Concise Report Generation System</b>. The main motivation behind the project was that the traditional method to observe XRay and report generation by a Radiologist takes too much time mainly due to high population, dependence on experience of Radiologist, artefacts on X-ray images, management of physical reports and Lack of proper infrastructure and services in rural regions.
 <br><br>
-A full-fledged system with <b>1/5th the size of industry standard model</b> (published by University of California San Francisco in early 2019(Fine-tuned VGG19 Model). [link to Publication](https://www.sciencedirect.com/science/article/abs/pii/S0895611118304956?via%3Dihub)) and an<b> increment in accuracy from 69.7% to 75.42% </b>([more details](https://github.com/Gauravsharma-20/Minor-Project/blob/master/SystemDetails/ModelDetails.png)) and a proprietary Pre-processing method which is able to resolve most of defects from images ([sample results](https://github.com/Gauravsharma-20/Minor-Project/blob/master/SystemDetails/SamplePreprocessedResults.jpg)). Alongside that, a robust web application with a proper database management system.System is designed in a way to be more scalable in future.
+A full-fledged system with <b>1/5th the size of industry standard model</b> (published by University of California San Francisco in early 2019(Fine-tuned VGG19 Model). [link to Publication](https://www.sciencedirect.com/science/article/abs/pii/S0895611118304956?via%3Dihub)) and an<b> increment in accuracy from 69.7% to 75.42% </b>([more details](https://github.com/SaarishtThaman/Minor-Project/blob/master/SystemDetails/ModelDetails.png)) and a proprietary Pre-processing method which is able to resolve most of defects from images ([sample results](https://github.com/SaarishtThaman/Minor-Project/blob/master/SystemDetails/SamplePreprocessedResults.jpg)). Alongside that, a robust web application with a proper database management system.System is designed in a way to be more scalable in future.
 
 ### DEMO:
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SaarishtThaman/Minor-Project/blob/master/SystemDetails/Demo.gif" width="75%" height="60%"><br>
